@@ -35,3 +35,4 @@
 
 
 ## Результат
+![image](https://github.com/user-attachments/assets/278e2163-a65c-42eb-a163-8e21f23fc0f8)
