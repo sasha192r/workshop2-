@@ -31,3 +31,7 @@
 
 ## Код для переноса валюты
 
+![image](https://github.com/user-attachments/assets/191027b5-fc0b-4f2a-9abd-3dbc97530874)
+
+
+## Результат
